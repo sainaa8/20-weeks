@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+}
+
+.div1,
+.div2 {
+  height: 100vh;
+}
+.div1 {
+  background-color: rgb(6, 6, 94);
+}
+
+.div2 {
+  background-color: brown;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.distortion {
+  width: 100vw;
+  display: flex;
+  justify-content: flex-end;
+}
+.square {
+  width: 150px;
+  height: 150px;
+  background-color: blueviolet;
+}
+.square2 {
+  width: 150px;
+  height: 150px;
+  background-color: rgb(58, 226, 43);
+}
+.distortion2 {
+  width: 100vw;
+  display: flex;
+  justify-content: end;
+}
+.square3 {
+  width: 150px;
+  height: 150px;
+  background-color: rgb(43, 180, 226);
+}
+.square4 {
+  width: 150px;
+  height: 150px;
+  background-color: rgb(136, 106, 19);
+}
+.distortion3 {
+  width: 100vw;
+  display: flex;
+  justify-content: end;
+}
+.square5 {
+  width: 150px;
+  height: 150px;
+  background-color: rgb(43, 226, 80);
+}
+.square6 {
+  width: 150px;
+  height: 150px;
+  background-color: rgb(43, 198, 226);
+}
+.distortion4 {
+  width: 100vw;
+  display: flex;
+  justify-content: end;
+}
+.square7 {
+  width: 150px;
+  height: 150px;
+  background-color: rgb(226, 116, 43);
+}
